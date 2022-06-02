@@ -1,0 +1,14 @@
+{
+  "name": "files-parsing-lib",
+  "version": "1.0.0",
+  "description": "parsing all files of a folder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yapsee",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
